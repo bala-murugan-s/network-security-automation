@@ -9,7 +9,7 @@ Fetches [Prisma Access](https://www.paloaltonetworks.com/prisma/access) egress I
 
 | Field            | Value                              |
 |------------------|-------------------------------------|
-| **Script Name**  | `get-prisma-ip.ps1`                |
+| **Script Name**  | `get-prisma-egress-ip.ps1`                |
 | **Author**       | Bala Murugan S                     |
 | **GitHub**       | [bala-murugan-s](https://github.com/bala-murugan-s) |
 | **Created**      | October 7, 2025                    |
