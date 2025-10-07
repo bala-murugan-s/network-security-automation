@@ -14,7 +14,7 @@ A multi-vendor, cross-platform repository of automation scripts that help stream
 
 | Folder     | Description                                      |
 |------------|--------------------------------------------------|
-| `paloalto/`  | Palo Alto automation tools      |
+| [`prisma/`](prisma/)  | Palo Alto automation tools      |
 | `cisco/`   | Cisco ASA/FTD rule export and audit tools *(todo)* |
 | `fortinet/`| FortiGate automation scripts *(planned)*         |
 | `azure/`   | Azure firewall rule tools *(planned)*            |
